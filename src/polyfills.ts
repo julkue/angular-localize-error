@@ -14,6 +14,11 @@
  * Learn more in https://angular.io/guide/browser-support
  */
 
+/******************************************************************
+ * Load `$localize` - used if i18n tags appear in Angular templates.
+ */
+import '@angular/localize/init';
+
 /***************************************************************************************************
  * BROWSER POLYFILLS
  */
