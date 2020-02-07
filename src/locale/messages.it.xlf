@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template" target-language="it">
+    <body>
+      <trans-unit id="addToCartButtonLabel" datatype="html">
+        <source>Add to cart!</source><target state="final">Aggiungi al carrello!!</target>
+        <note priority="1" from="description">Button label to add a bundle to the cart</note>
+        <note priority="1" from="meaning">Add to cart button label</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
